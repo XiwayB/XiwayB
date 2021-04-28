@@ -1,5 +1,5 @@
-<h3 align="center">Hi 👋, I'm Xiway</h3>
-<h3 align="center">A newborn in the full-stack developer's family 🏡 </h3>
+<h3 align="left">Hi 👋, I'm Xiway</h3>
+<h3 align="left">A newborn in the full-stack developer's family 🏡 </h3>
 
 - 🎓 I studied International Project Management in Paris.
 - 👩🏻‍💻 I graduated from Le Wagon Web Development Full-Time Bootcamp.
