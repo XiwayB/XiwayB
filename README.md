@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Xiway</h1>
+<h3 align="center">Hi 👋, I'm Xiway</h3>
 <h3 align="center">A freshly graduate from Le Wagon & full-stack developer from France 🇫🇷</h3>
 
-- 🔭 I’m currently working on [Taboard](https://taboard.herokuapp.com/), a chrome extension and Web App that will save you from your chrome tab nightmare.
+- 🔭 I’m currently working on [Taboard](https://taboard.herokuapp.com/), a chrome extension and Web App that will save you from your chrome tab nightmare 🧟‍♀️
 
 - 📫 How to reach me **xiway.banh@gmail.com**
 
