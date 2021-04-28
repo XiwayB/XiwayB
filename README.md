@@ -9,7 +9,7 @@
 
 <h3 align="left">Let's connect and chat:</h3>
 
-[![Linkedin Badge](https://img.shields.io/badge/xiway%20banh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anushkaverma/)](https://www.linkedin.com/in/anushkaverma/)   [![Gmail Badge](https://img.shields.io/badge/xiway.banh-D14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:xiway.banh@gmail.com)](mailto:xiway.banh@gmail.com) 
+[![Linkedin Badge](https://img.shields.io/badge/xiway%20banh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anushkaverma/)](https://www.linkedin.com/in/xiway-banh/)   [![Gmail Badge](https://img.shields.io/badge/xiway.banh-D14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:xiway.banh@gmail.com)](mailto:xiway.banh@gmail.com) 
 
 
 <h3 align="left">Languages and Tools:</h3>
