@@ -5,7 +5,7 @@
 
 - 🎓 I studied International Project Management in Paris.
 - 👩🏻‍💻 I graduated from Le Wagon Web Development Full-Time Bootcamp.
-- 🔭 I’m currently working on [Taboard](https://chrome.google.com/webstore/detail/taboard/nchjighemnpaocgbecjeokgejnjbhpgm?hl=en), a chrome extension and Web App that will save you from your chrome tab nightmare 🧟‍♀️
+- 🔭 I’m currently working on [TaBoard](https://chrome.google.com/webstore/detail/taboard/nchjighemnpaocgbecjeokgejnjbhpgm?hl=en), a chrome extension and Web App that will save you from your chrome tab nightmare 🧟‍♀️
 
 <h3 align="left">Let's connect and chat:</h3>
 
