@@ -1,5 +1,5 @@
 <h3 align="center">Hi 👋, I'm Xiway</h3>
-<h3 align="center">A newborn in the full-stack developer family 🏡 </h3>
+<h3 align="center">A newborn in the full-stack developer's family 🏡 </h3>
 
 - 🎓 I studied International Project Management and cinematography in Paris 🇫🇷
 - 🔭 I’m currently working on [Taboard](https://chrome.google.com/webstore/detail/taboard/nchjighemnpaocgbecjeokgejnjbhpgm?hl=en), a chrome extension and Web App that will save you from your chrome tab nightmare 🧟‍♀️
