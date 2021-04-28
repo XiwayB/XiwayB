@@ -4,7 +4,7 @@
 - 🎓 I studied International Project Management and cinematography in Paris.
 - 👩🏻‍💻 I graduated from Le Wagon Web Development Full-Time Bootcamp.
 - 🔭 I’m currently working on [Taboard](https://chrome.google.com/webstore/detail/taboard/nchjighemnpaocgbecjeokgejnjbhpgm?hl=en), a chrome extension and Web App that will save you from your chrome tab nightmare 🧟‍♀️
-- 📫 How to reach me **xiway.banh@gmail.com**
+- 📫 Feel free to contact me: **xiway.banh@gmail.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
