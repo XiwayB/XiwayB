@@ -1,8 +1,6 @@
 <h3 align="left">Hi 👋, I'm Xiway</h3>
 <img align="right" src="https://i.giphy.com/media/3oKIPnAiaMCws8nOsE/200w.webp" width="230">
 
-<h3 align="left">A newborn in the full-stack developer's family 🏡 </h3>
-
 - 🎓 I studied International Project Management in Paris.
 - 👩🏻‍💻 I graduated from Le Wagon Web Development Full-Time Bootcamp.
 - 🔭 I’m currently working on [TaBoard](https://chrome.google.com/webstore/detail/taboard/nchjighemnpaocgbecjeokgejnjbhpgm?hl=en), a chrome extension and Web App that will save you from your chrome tab nightmare 🧟‍♀️
